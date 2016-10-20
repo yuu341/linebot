@@ -44,7 +44,7 @@
             "Illuminate\\Foundation\\ComposerScripts::postUpdate",
             "php artisan ide-helper:generate",
             "php artisan optimize"
-        ],
+        ]
     },
     "config": {
         "preferred-install": "dist"
